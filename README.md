@@ -77,4 +77,9 @@ Both models achieved high accuracy on their respective test sets, demonstrating 
 
 ### ADNI Dataset Model:
 * **Test Accuracy**: **98.12%**
-* **Key Insight**: The model performed exceptionally well, with very high precision and recall for all classes, including the heavily augmented 'Moderate Dementia' class
+* **Key Insight**: The model performed exceptionally well, with very high precision and recall for all classes, including the heavily augmented 'Moderate Dementia' class.
+
+### Mendeley Dataset Model:
+* **Test Accuracy**: **96.88%**
+* **Key Insight**: This model also demonstrated strong predictive power, successfully classifying the different stages of dementia with high accuracy.
+
